@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zulalc&label=Profile%20views&color=0e75b6&style=flat" alt="zulalc" /> </p>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **ASP.NET**
 
 - 💬 Ask me about **Java**
 
