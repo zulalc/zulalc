@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Zülal</h1>
-<h3 align="center">I am a senior Software Engineer student in Işık University and I am trying to develop myself as days go by </h3>
+<h3 align="center">I am a recently graduated Software Engineer and I am trying to develop myself as days go by </h3>
 <img align="right" alt="Coding" width="300" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zulalc&label=Profile%20views&color=0e75b6&style=flat" alt="zulalc" /> </p>
 
-- 🌱 I’m currently learning **ASP.NET**
+- 🌱 I’m currently learning **React JS**
 
 - 💬 Ask me about **Java**
 
